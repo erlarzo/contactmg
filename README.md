@@ -1,6 +1,5 @@
 # contactmg
 
-## Deskripsi
 Project CRUD (Create, Read, Update, Delete) kontak menggunakan Vue.js, Express.js dan MySQL.
 
 ```bash

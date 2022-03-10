@@ -2,9 +2,15 @@
 
 Project CRUD (Create, Read, Update, Delete) kontak menggunakan Vue.js, Express.js dan MySQL.
 
+
+## Folder
 ```bash
-├── backend   # Express.js sebagai backend
-└── src       # Vue.js sebagai frontend
+├── contactmg           # Vue.js sebagai frontend
+│   ├── backend         # Express.js sebagai backend
+│   ├── dist
+│   └── node_modules
+│   └── public
+│   └── src
 ```
 
 ## Instalasi
@@ -14,11 +20,4 @@ Project CRUD (Create, Read, Update, Delete) kontak menggunakan Vue.js, Express.j
 4. - Jalankan perintah ```node index.js``` untuk menjalankan backend pada folder **backend**
    - Jalankan perintah ```npm run serve``` untuk menjalankan frontend pada folder **contactmg**
 5. Selesai.
-
-
-## Produksi
-Jalankan perintah berikut :
-```
-npm run build
-```
 
